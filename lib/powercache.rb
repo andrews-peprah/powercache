@@ -1,0 +1,3 @@
+module Powercache
+  # Your code goes here...
+end
